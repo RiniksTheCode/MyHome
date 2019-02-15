@@ -1,0 +1,15 @@
+.goback{
+    position: absolute;
+    top: 0;
+    right: 15px;
+    color: inherit;
+    text-decoration: none;
+}
+.addItem{
+    position: absolute;
+    bottom: 30px;
+    right: 30px;
+}
+ion-button{
+    --border-radius: 30px;
+}
